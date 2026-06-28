@@ -42,7 +42,7 @@ User → FastAPI → LangGraph Agent → MCP Tools → LLM → Langfuse
 
 ### 1. Clone
 ```bash
-git clone https://github.com/<your-username>/agentic-ai-langfuse-demo
+git clone https://github.com/uni85/agentic-ai-langfuse-demo
 cd agentic-ai-langfuse-demo
 ```
 
