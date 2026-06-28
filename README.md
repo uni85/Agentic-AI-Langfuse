@@ -72,21 +72,6 @@ curl -X POST http://localhost:8002/chat   -H "Content-Type: application/json"   
 curl -X POST http://localhost:8002/evaluate   -H "Content-Type: application/json"   -d '{"run_name":"test-run"}'
 ```
 
----
-
-## Screenshots
-
-Place your screenshots in the `docs/` folder:
-
-- Trace overview
-- Trace details
-- Eval datasets
-- Eval test case
-- Feedback example
-- Chat UI
-
----
-
 ## 🧩 Tech Stack
 
 - LangGraph
